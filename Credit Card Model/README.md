@@ -1,5 +1,4 @@
 # Credit Card Approval Prediction: Project Overview
-![Credit Card Approval](Image/creditcard.jpg "Credit Card Approval")
 * The project aims to predict how likely a credit card request will get approved based on age, gender, credit score, income, debt, etc.
 * Explored the data to understand the relationship of various features with the target (Approval Status)
 * Imputed the missing values with mean imputation for the numeric features and  mode imputation to categorical features

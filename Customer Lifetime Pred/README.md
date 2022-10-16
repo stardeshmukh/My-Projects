@@ -17,18 +17,17 @@ The dataset represents Customer lifetime value of an Auto Insurance Company in t
 Univariate, Bivariate and Multivariate Analysis were performed to bring out important aspects of data into focus for further analysis. Some of the highlights from EDA are listed below.
 
 ### Univariate Analysis
-![CLV](/Images/CLV.png "Customer Lifetime Value")
+
 - CLV is heavily right skewed in the data
 
-![location](/Images/location.png "Location")
 - Most of the customers are from the suburban region
 
 ### Bivariate Analysis
-![Bivariate Analysis](/Images/bi.png "Bivariate Analysis of CLV and Monthly Premium")
+
 - CLV and Monthly premium auto have a positive correlation and there is a linear relationship between them.
 
 ### Multivariate Analysis
-![Heatmap](/Images/Heatmap.png "Heatmap")
+
 - There is a positive correlation between CLV and the monthly premium auto
 - There is a slight positive correlation between the total claim amount and CLV.
 - Income has a lesser positive correlation with CLV
